@@ -36,6 +36,6 @@ I approached the HTML first and then started working on the CSS styling. I tried
 ## Author
 
 - Website - [Trey Courtney](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@tecour](https://www.frontendmentor.io/profile/tecour)
+- Twitter - [@treycomusic](https://www.twitter.com/treycomusic)
 
