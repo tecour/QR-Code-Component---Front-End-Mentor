@@ -35,7 +35,7 @@ I approached the HTML first and then started working on the CSS styling. I tried
 
 ## Author
 
-- Website - [Trey Courtney](https://www.your-site.com)
+- Website - [Trey Courtney](https://tecour.github.io/QR-Code-Component---Front-End-Mentor/))
 - Frontend Mentor - [@tecour](https://www.frontendmentor.io/profile/tecour)
 - Twitter - [@treycomusic](https://www.twitter.com/treycomusic)
 
