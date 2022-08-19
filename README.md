@@ -22,7 +22,7 @@ This is my first project for Front End Mentor. It's a simple QR Code component.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://tecour.github.io/QR-Code-Component---Front-End-Mentor/)
 
 ## My process
 I approached the HTML first and then started working on the CSS styling. I tried to the HTML and CSS as simple as possible according to my knowledge of HTML and CSS. 
