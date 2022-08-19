@@ -17,7 +17,7 @@ This is my first project for Front End Mentor. It's a simple QR Code component.
 
 ### Screenshot
 
-![](./qr_component.png)
+![screenshot](./qr_component.png)
 
 ### Links
 
